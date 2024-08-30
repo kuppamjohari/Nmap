@@ -1,6 +1,7 @@
 # Nmap
 
-This cheat sheet is designed to help Red Teamers and Penetration Testers identify vulnerabilities using "Nmap." It's structured to be accessible for beginners, providing fundamental knowledge, while also offering advanced options for professionals to refine their skills. There are various methods to execute the tasks mentioned, and we've compiled this list based on our experience with each approach.
+This cheat sheet is crafted to assist both beginners and seasoned professionals in identifying vulnerabilities using Nmap. It covers fundamental knowledge for those new to penetration testing, while also providing advanced options to help experienced users refine their skills. Drawing on resources from Hacking Articles, this guide is designed to be useful to everyone in the field of cybersecurity.
+
 
 # **Special thanks to [Hacking Articles](https://www.hackingarticles.in)**
 
